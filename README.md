@@ -1,4 +1,6 @@
 #codsoft_task2
+
+
 -> This is a simple Java console application where the user guesses a randomly generated number between 1 and 100.
 
 -> The program provides feedback on whether the guess is too high, too low, or correct. 
