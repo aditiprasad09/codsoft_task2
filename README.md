@@ -1,5 +1,6 @@
 #codsoft_task2
 
+**Number-Game**
 
 -> This is a simple Java console application where the user guesses a randomly generated number between 1 and 100.
 
